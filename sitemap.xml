@@ -6,11 +6,11 @@
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 
 <url>
-  <loc>https://osaze.media/</loc>
+  <loc>https://osazemedia.com/</loc>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>https://osaze.media/contact.html</loc>
+  <loc>https://osazemedia.com/contact.html</loc>
   <priority>0.80</priority>
 </url>
 
